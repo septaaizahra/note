@@ -4,7 +4,7 @@ body {
    color: #b4ffa5; /*Warna teks utama (Kuning Cerah) */
 }
 
-.kartu-profil {
+Aizahra {
     width: 300px;
     margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
     padding: 20px;
@@ -13,12 +13,11 @@ body {
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
 }
 |
-
-.kartu-profil {
-    width: 150px;
-    border-radius: 5-%; /* Trick untuk membuat gamabr persegi menjadi lingkuran sempurna */
-}
 .kartu-profil img {
+    width: 150px;
+    border-radius: 50%; /* Trick untuk membuat gamabr persegi menjadi lingkuran sempurna */
+}
+.kartu -profil {
     /* ... (kode dari slide sebelumnya) ... */
     text-align: center; /*Menengahkan semua teks di dalam kartu */
-}
+    }
